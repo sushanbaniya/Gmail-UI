@@ -371,7 +371,7 @@ class _HomePageState extends State<HomePage> {
                     crossAxisAlignment: CrossAxisAlignment.end,
                     children: [
                       Text('5:59'),
-                      SizedBox(height: 250),
+                      SizedBox(height: 350),
                     //  SizedBox(width: 18),
                        Icon(Icons.star),
 
@@ -382,6 +382,7 @@ class _HomePageState extends State<HomePage> {
                   onTap: (){
                     setState(() {
                       //new comment
+                      //second new commetn
                     });
                   },
                 ),
