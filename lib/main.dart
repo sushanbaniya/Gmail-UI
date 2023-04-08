@@ -379,7 +379,11 @@ class _HomePageState extends State<HomePage> {
                        
                     ],
                   ),
-                  onTap: (){},
+                  onTap: (){
+                    setState(() {
+                      
+                    });
+                  },
                 ),
 
 
