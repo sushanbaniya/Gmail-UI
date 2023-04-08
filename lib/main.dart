@@ -371,7 +371,7 @@ class _HomePageState extends State<HomePage> {
                     crossAxisAlignment: CrossAxisAlignment.end,
                     children: [
                       Text('5:59'),
-                      SizedBox(height: 10),
+                      SizedBox(height: 250),
                     //  SizedBox(width: 18),
                        Icon(Icons.star),
 
